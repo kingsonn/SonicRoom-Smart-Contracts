@@ -1,1 +1,1 @@
-# SonicRoom-Smart-Contracts
+# SonicRoom Smart Contracts
